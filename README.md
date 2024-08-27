@@ -1,4 +1,11 @@
+
 ## Hi there 👋
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=sanare1024&show_icons=true&theme=radical)](https://github.com/깃허브아이디)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanare1024)](https://github.com/sanare1024/github-readme-stats)
+
+![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
 
 <!--
 **Sanare1024/Sanare1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
